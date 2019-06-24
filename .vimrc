@@ -14,13 +14,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'nvie/vim-flake8'
 
 " Colorscheme
-Plugin 'godlygeek/csapprox'
-Plugin 'wmvanvliet/vim-blackboard'
-Plugin 'szorfein/fromthehell.vim'
-Plugin 'DankNeon/vim'
 Plugin 'morhetz/gruvbox'
-Plugin 'chriskempson/base16-vim'
-Plugin 'sjl/badwolf'
 
 " vim tmux
 Plugin 'christoomey/vim-tmux-navigator'
