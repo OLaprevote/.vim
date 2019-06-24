@@ -1,0 +1,8 @@
+Ignore everything
+/*
+
+Except README, .gitignore, .vimrc and .tmux.conf
+!/README.md
+!/.gitignore
+!/.vimrc
+!/.tmux.conf
