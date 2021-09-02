@@ -1,0 +1,12 @@
+[submodule "pack/xml/start/closetag"]
+	path = pack/xml/start/closetag
+	url = https://github.com/alvan/vim-closetag.git
+[submodule "pack/default/start/gruvbox"]
+	path = pack/default/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/default/start/vim-tmux-navigator"]
+	path = pack/default/start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "pack/xml/opt/vim-matchit"]
+	path = pack/xml/opt/vim-matchit
+	url = https://github.com/adelarsq/vim-matchit.git
