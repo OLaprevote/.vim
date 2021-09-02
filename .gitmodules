@@ -1,5 +1,5 @@
 [submodule "pack/xml/start/closetag"]
-	path = pack/xml/start/closetag
+	path = pack/xml/start/vim-closetag
 	url = https://github.com/alvan/vim-closetag.git
 [submodule "pack/default/start/gruvbox"]
 	path = pack/default/start/gruvbox
