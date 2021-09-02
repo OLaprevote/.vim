@@ -7,14 +7,15 @@ It makes far less remaps, and builds muscle memory for j and k as movements, as 
 
 ## Plugins
 
-Plugins are managed with [Vundle](https://github.com/VundleVim/Vundle.vim).
-- Flake8 (for Python)
+Plugins are managed with built-in vim plugins manager and git submodule.
+- vim-closetag
+- vim-matchit
 - gruvbox (color scheme)
 - vim-tmux-navigator
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/OLaprevote/.vim.git`. Alternatively `git init` in your .vim, then add it as remote: `git remote add https://github.com/OLaprevote/vim.git`.
-2. Install [Vundle](https://github.com/VundleVim/Vundle.vim)
+1. Clone this repository: `git clone git@github.com:OLaprevote/.vim.git` 
+2. Run `git submodule init` and `git submodule update` to get all plugins.
 3. Symlink these .vimrc and .tmux.conf in your `$HOME`:
     `ln -s .vim/.vimrc $HOME/.vimrc; ln -s .vim/.tmux.conf $HOME/.tmux.conf`
