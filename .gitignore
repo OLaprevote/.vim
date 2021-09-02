@@ -1,8 +1,9 @@
 Ignore everything
 /*
 
-Except README, .gitignore, .vimrc and .tmux.conf
+Except README, .gitignore, .vimrc, .tmux.conf and pack
 !/README.md
 !/.gitignore
 !/.vimrc
 !/.tmux.conf
+!/pack/
