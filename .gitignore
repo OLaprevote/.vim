@@ -1,9 +1,1 @@
-Ignore everything
-/*
-
-Except README, .gitignore, .vimrc, .tmux.conf and pack
-!/README.md
-!/.gitignore
-!/.vimrc
-!/.tmux.conf
-!/pack/
+.netrwhist
